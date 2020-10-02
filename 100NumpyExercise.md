@@ -10,11 +10,17 @@ free to open an issue at <https://github.com/rougier/numpy-100>.
 File automatically generated. See the documentation to update questions/answers/hints programmatically.
 
 #### 1. Import the numpy package under the name `np` (★☆☆)
-
+```python
+import numpy as np
+```
 #### 2. Print the numpy version and the configuration (★☆☆)
-
+```python
+np.__version__
+```
 #### 3. Create a null vector of size 10 (★☆☆)
-
+```python
+np.zeros(10)
+```
 #### 4. How to find the memory size of any array (★☆☆)
 
 #### 5. How to get the documentation of the numpy add function from the command line? (★☆☆)
