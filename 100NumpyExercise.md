@@ -15,11 +15,12 @@ import numpy as np
 ```
 #### 2. Print the numpy version and the configuration (★☆☆)
 ```python
-np.__version__
+print(np.__version__)
 ```
 #### 3. Create a null vector of size 10 (★☆☆)
 ```python
-np.zeros(10)
+a = np.zeros(10)
+print(a)
 ```
 #### 4. How to find the memory size of any array (★☆☆)
 
